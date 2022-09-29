@@ -49,7 +49,7 @@ namespace LinqExercise
             Console.WriteLine();
             Console.WriteLine();
 
-            //TODO: Order numbers in descending order adn print to the console
+            //DONE: Order numbers in descending order adn print to the console
 
             Console.WriteLine("---------Descending Numbers-------------------");
             Console.WriteLine();
